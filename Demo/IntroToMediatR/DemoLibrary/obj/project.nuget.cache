@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lPZeK0tpZci1zq4Ek55re/QfsIANt8mM6jeLD/ZG6DkRwaBRYQFZE+uuT9OCZguSN3Xwm/dLSEt5paXUCyfbQw==",
+  "success": true,
+  "projectFilePath": "E:\\1_Work\\Work_Novaon\\Demo\\IntroToMediatR\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuyet\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

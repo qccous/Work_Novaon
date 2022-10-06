@@ -1,0 +1,12 @@
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\bin\Debug\net5.0\Bookstore_Lib.deps.json
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\bin\Debug\net5.0\Bookstore_Lib.dll
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\bin\Debug\net5.0\Bookstore_Lib.pdb
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\Bookstore_Lib.csproj.AssemblyReference.cache
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\Bookstore_Lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\Bookstore_Lib.AssemblyInfoInputs.cache
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\Bookstore_Lib.AssemblyInfo.cs
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\Bookstore_Lib.csproj.CoreCompileInputs.cache
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\Bookstore_Lib.dll
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\refint\Bookstore_Lib.dll
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\Bookstore_Lib.pdb
+E:\1_Work\Work_Novaon\Demo\BookStore\Bookstore_Lib\obj\Debug\net5.0\ref\Bookstore_Lib.dll

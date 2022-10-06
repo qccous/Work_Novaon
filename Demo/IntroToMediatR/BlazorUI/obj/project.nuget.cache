@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhSX8ZL3yKDCOqRq/JN+h2m7BnlXPuwI7Dm+xkLoyEGvBlgcVSOi7ZWaLpGDBR90/JBBpZj7UlBI8HeW4RVSvA==",
+  "success": true,
+  "projectFilePath": "E:\\1_Work\\Work_Novaon\\Demo\\IntroToMediatR\\BlazorUI\\BlazorUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuyet\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Kuyet\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Kuyet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\bin\Debug\net6.0\testOutput.exe
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\bin\Debug\net6.0\testOutput.deps.json
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\bin\Debug\net6.0\testOutput.runtimeconfig.json
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\bin\Debug\net6.0\testOutput.dll
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\bin\Debug\net6.0\testOutput.pdb
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\testOutput.csproj.AssemblyReference.cache
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\testOutput.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\testOutput.AssemblyInfoInputs.cache
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\testOutput.AssemblyInfo.cs
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\testOutput.csproj.CoreCompileInputs.cache
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\testOutput.dll
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\refint\testOutput.dll
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\testOutput.pdb
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\testOutput.genruntimeconfig.cache
+E:\1_Work\Work_Novaon\Demo\AppiumTest1\testOutput\obj\Debug\net6.0\ref\testOutput.dll
