@@ -79,7 +79,7 @@ const App = () => {
       DeviceInfo.getDeviceName(),
       DeviceInfo.getSerialNumber(),
       getPublicIp(),
-      DeviceInfo.getVersion(),
+      DeviceInfo.getSystemVersion(),
       DeviceInfo.getUniqueId()
     ])
       .then(([
