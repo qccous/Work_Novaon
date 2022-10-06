@@ -12,9 +12,13 @@ import com.facebook.soloader.SoLoader;
 import com.onfluencerusertracking.newarchitecture.MainApplicationReactNativeHost;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
+import com.onfluencerusertracking.TrackingService;
+import android.content.Context;
+import android.os.Bundle;
+import android.content.Intent;
+import com.facebook.react.HeadlessJsTaskService;
 
 public class MainApplication extends Application implements ReactApplication {
-
   private final ReactNativeHost mReactNativeHost =
       new ReactNativeHost(this) {
         @Override
@@ -52,6 +56,11 @@ public class MainApplication extends Application implements ReactApplication {
   @Override
   public void onCreate() {
     super.onCreate();
+    // Context context = getApplicationContext();
+    // Intent myIntent = new Intent(context, TrackingService.class);
+    // context.startService(myIntent);
+    // HeadlessJsTaskService.acquireWakeLockNow(context);
+
     // If you opted-in for the New Architecture, we enable the TurboModule system
     ReactFeatureFlags.useTurboModules = BuildConfig.IS_NEW_ARCHITECTURE_ENABLED;
     SoLoader.init(this, /* native exopackage */ false);
